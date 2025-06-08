@@ -27,6 +27,5 @@ public:
     double radius(const Point& p) const;
     double obwod(const Point& p) const;
     double pole(const Point& p) const;
-    const Point & distant(const Point& p) const;
 };
 #endif //KOLO_H
