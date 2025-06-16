@@ -5,8 +5,6 @@ using namespace std;
 int main()
 {
 
-
-    //Point p1, p2, p3;
     Point p1("P1", 0, 0);
     Point p2("P2", 0, 0);
 
